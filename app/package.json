@@ -1,0 +1,17 @@
+{
+  "name": "rectangle",
+  "version": "1.0.0",
+  "description": "test app node",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
