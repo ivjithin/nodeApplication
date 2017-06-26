@@ -12,6 +12,7 @@
   "devDependencies": {
     "babel": "^6.23.0",
     "chai": "^4.0.2",
-    "mocha": "^3.4.2"
+    "mocha": "^3.4.2",
+    "mocha-junit-reporter": "^1.13.0"
   }
 }

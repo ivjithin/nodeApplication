@@ -24,11 +24,6 @@ describe('Rectangle', () => {
       // not equal 10.
       rectangle.width.should.equal(10);
     });
-
-    it('can be changed', () => {
-      // Assert that the width can be changed.
-       rectangle.width.should.equal(30);
-    });
  	
  it('only accepts numerical values', function() {
     (function() {
