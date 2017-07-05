@@ -18,7 +18,7 @@ describe('Calculation', () => {
 describe('Area', () => {
   
    	it('(10,20) should return area 200 ', () => {
-		assert.equal(calc.area(rectangle), 100);
+		assert.equal(calc.area(rectangle), 200);
   });
   
 });
